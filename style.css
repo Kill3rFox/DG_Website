@@ -165,7 +165,7 @@ section {
 #profile {
   display: flex;
   justify-content: center;
-  gap: 5rem;
+  gap: 2rem;
   height: 80vh;
 }
 
@@ -174,7 +174,6 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
-  transform: translateX(-80px);
 }
 
 .section__text {
@@ -432,3 +431,4 @@ footer p {
   text-align: center;
 
 }
+
