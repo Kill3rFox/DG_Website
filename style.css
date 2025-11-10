@@ -164,7 +164,7 @@ section {
 
 #profile {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;;
   gap: 2rem;
   height: 80vh;
 }
@@ -431,4 +431,5 @@ footer p {
   text-align: center;
 
 }
+
 
